@@ -119,6 +119,9 @@ nav .fa{
 /*---- Menu ----*/
 .SoulFood {
 background-image:  linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("images/SoulFood.jpg");
+background-position: center;
+background-size: cover;
+position: relative;
 }
 .MotD{
     width: 80%;
@@ -181,5 +184,8 @@ p{
     /*--- Calorie Calculator ---*/
 
     .CalorieCalculator {
-        background-image:  linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("images/Background.jpg");
+    background-image:  linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("images/Background.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
         }
